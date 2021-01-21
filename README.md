@@ -5,8 +5,9 @@ Playfest 2021 Workshop on p5js - Amanda and Carol
 ## Prior work
 
 [EPIC Interactive Workshop](https://github.com/willingc/epic-interactive)
-- [CalPoly EPIC Website](https://epic.calpoly.edu/)
-- [SlideDeck](https://speakerdeck.com/willingc/interactivity-in-computer-science)
+- [CalPoly EPIC Program Website](https://epic.calpoly.edu/)
+- [Workshop SlideDeck](https://speakerdeck.com/willingc/interactivity-in-computer-science)
+- [Worshop Website](https://willingc.github.io/epic-site/)
 
 ## Links
 
