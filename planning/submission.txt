@@ -1,0 +1,7 @@
+Title:
+
+Play with Code: The Joy of P5.js
+
+Description:
+
+Find the joy and wonder of coding by mixing an interesting subject and interactive code exploration. Inspire others to view coding as more than typing text. Adding visualizations and sound allows the user to express emotion and meaning through code. If you love art, music, or nature, using P5.js gives you a canvas for playing with code. Beginning coders and experienced developers will learn from playing, exploring and sharing the world of p5.js.
