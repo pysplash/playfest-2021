@@ -9,6 +9,8 @@ Playfest 2021 Workshop on p5js - Amanda and Carol
 - [Workshop SlideDeck](https://speakerdeck.com/willingc/interactivity-in-computer-science)
 - [Worshop Website](https://willingc.github.io/epic-site/)
 
+[PyCon Colombia keynote - EPIC section](https://speakerdeck.com/willingc/python-and-jupyter-looking-to-the-future?slide=29)
+
 ## Links
 
 - p5js: https://p5js.org/
