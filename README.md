@@ -2,6 +2,10 @@
 
 Playfest 2021 Workshop on p5js - Amanda and Carol
 
+[Event website](https://www.playfullearninglab.org/playfest-2021-workshops)
+
+**Play with Code: The Joy of p5.js**
+
 ## Prior work
 
 [EPIC Interactive Workshop](https://github.com/willingc/epic-interactive)
