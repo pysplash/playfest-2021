@@ -18,7 +18,8 @@ Playfest 2021 Workshop on p5js - Amanda and Carol
 ## Links
 
 - p5js: https://p5js.org/
-- p5js editor: https://editor.p5js.org/
+    - editor: https://editor.p5js.org/
+    - examples: https://p5js.org/examples/
 - ml5js: https://ml5js.org/
     - Examples: https://examples.ml5js.org/
 - Jupyter Notebook: https://jupyter.org/try
