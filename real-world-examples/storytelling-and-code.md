@@ -8,3 +8,4 @@ Examples of intersections between storytelling and code. Contributions (includin
 
 ## People
 * [Botnik](https://botnik.org/) is a machine entertainment company run by comedy writers. We use computers to remix text.
+* Joy Buolamwini, [poet of code](https://www.poetofcode.com/), whose research explores the intersection of social impact technology and inclusion.
